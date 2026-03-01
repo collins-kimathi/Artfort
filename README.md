@@ -60,4 +60,5 @@ npm run preview
 ## Notes
 
 - Navigation is hash-based (for example: `#home`, `#shop`, `#checkout`)
-- Cart and checkout state are client-side only (no backend integration in this repo)
+- Cart and checkout state are client-side only
+- no backend integration in this repo
